@@ -3,4 +3,4 @@
 
 轨迹对比图
 ![Alt text](https://github.com/handsomelychan000/quadrotor-PD/blob/master/untitled.jpg)
-!(https://github.com/handsomelychan000/quadrotor-PD/blob/master/guiji.jpg)
+![Alt text](https://github.com/handsomelychan000/quadrotor-PD/blob/master/guiji.jpg)
